@@ -1,5 +1,7 @@
 # go-katas
 
+Clone this repo
+
 Head to exercism and install the Exercism CLI
 
 `brew update && brew install exercism`
